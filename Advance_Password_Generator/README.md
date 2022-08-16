@@ -14,4 +14,11 @@ You can choice them with the following three numbers 0,1,2 respectively.
 
 3. '2' for Random Password with meaningful words
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It takes two inputs first one being the password length and the second one takes the no of words to be used in the process and returns the string of words based on the input. For this we are using a words.txt file which contains the words from a dictionary.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It takes two inputs first one being the password length and the second one takes the no of words to be used in the process and returns the string of words based on the input. For this we are using a [words.txt](https://github.com/jithendra-varma/Basic_Python_Projects/blob/main/Advance_Password_Generator/words.txt) file which contains the words from a dictionary.
+
+---
+**NOTE**
+
+Once a password is generated the same won't be generated again. All the passwords are saved in [passwords.txt](https://github.com/jithendra-varma/Basic_Python_Projects/blob/main/Advance_Password_Generator/passwords.txt) file.
+
+---
