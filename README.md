@@ -1,4 +1,4 @@
-# Python_Projects
+# Basic_Python_Projects
 
 Some basic python projects to make life easier
 
